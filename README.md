@@ -30,6 +30,4 @@ condições da missão; emite alertas básicos; organiza informações no termin
 - **main.c:** [main.c](main.c)
 - **Fluxograma:** [Fluxograma.png](Fluxograma.png)
 - **Documentação Técnica:** [Documentacao_Tecnica.pdf](Documentacao_Tecnica.pdf)
-- **Vídeo Demonstrativo:** [Video_Demonstrativo.mp4](Video_Demonstrativo.mp4)
-  
-**Obs:** Vídeo demonstrativo é pesado demais para ser reproduzido diretamente no Github, necessário download na máquina.
+- **Vídeo Demonstrativo:** [Assistir no YouTube](https://www.youtube.com/watch?v=Ny3QcjBdRjc)
